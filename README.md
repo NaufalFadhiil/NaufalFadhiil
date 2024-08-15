@@ -3,10 +3,6 @@
 - 🌱 I’m currently learning Flutter and Java
 - 💞️ I’m looking to collaborate on Mobile APPS Project
 - 📫 Reach me on my insta @nopnau    
-- 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: I'm a Students 2nd years in Widyatama University
+- ⚡ Fun fact: I'm a 2nd years students 
 
-<!---
-NaufalFadhiil/NaufalFadhiil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naufalfadhiil)](https://github.com/anuraghazra/github-readme-stats)
