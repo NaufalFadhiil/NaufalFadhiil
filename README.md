@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mobile Development
 - 🌱 I’m currently learning Flutter and Java
 - 💞️ I’m looking to collaborate on Mobile APPS Project
-- 📫 Reach me on insta @nopnau    
+- 📫 Reach me on my insta @nopnau    
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: I'm a Students 2nd years in Widyatama University
 
