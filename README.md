@@ -1,6 +1,6 @@
 <h1>Naufal Fadhiil</h1> 
 
-- 📝 Currently learning about Mobile Developer (especially flutter) and Web Development 
+- 📝 Currently learning about Mobile Developer (especially flutter) 
 - 👨‍🎓 2nd years Computer Science Student at the University Widyatama, Bandung 
 
 # 🌐 My Socials</h3>
