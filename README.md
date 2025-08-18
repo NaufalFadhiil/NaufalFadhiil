@@ -1,7 +1,7 @@
 <h1>Naufal Fadhiil</h1> 
 
-- 📝 Currently learning about Mobile Developer (especially flutter)
-- 🔍 Beginner in Software Quality Assurance – currently learning and exploring
+<!-- - 📝 Currently learning about Mobile Developer (especially flutter)
+- 🔍 Beginner in Software Quality Assurance – currently learning and exploring --> 
 - 👨‍🎓 3rd years Informatic Student at University Widyatama, Bandung 
 
 ## 🌐 My Socials
