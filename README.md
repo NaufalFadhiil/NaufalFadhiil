@@ -11,16 +11,16 @@
 </h2>
 
 ### 💻 Tech Stack
-[![Skills](https://skills.syvixor.com/api/icons?i=visualstudiocode,androidstudio,flutter,dart,firebase)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=visualstudiocode,androidstudio,flutter,dart,firebase)](https://github.com/NaufalFadhiil/)
 
 ### 🔍 Testing
-[![My Skills](https://skillicons.dev/icons?i=python,selenium,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,selenium,postman)](https://github.com/NaufalFadhiil/)
 
 
 <h2 align="center">🌐 Connect With Me 🤝</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/naufal-fadhiil">
-<img src="https://img.shields.io/badge/LinkedIn-Naufal_Fadhiil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Naufal_Fadhiil-5468FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 
