@@ -14,8 +14,9 @@
 [![Skills](https://skills.syvixor.com/api/icons?i=visualstudiocode,androidstudio,flutter,dart,firebase)](https://github.com/NaufalFadhiil/)
 
 ### 🔍 Testing
-[![My Skills](https://skillicons.dev/icons?i=python,selenium,postman)](https://github.com/NaufalFadhiil/)
-
+[![My Skills](https://skillicons.dev/icons?i=python,selenium)](https://github.com/NaufalFadhiil/)
+<img src="https://iconic-api.onrender.com/dark/pytest" width="52px" />
+[![My Skills](https://skillicons.dev/icons?i=postman)](https://github.com/NaufalFadhiil/)
 
 <h2 align="center">🌐 Connect With Me 🤝</h2>
 <p align="center">
