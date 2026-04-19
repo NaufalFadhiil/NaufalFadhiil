@@ -1,13 +1,20 @@
-<h1 style="color:#5468FF;"> Naufal Fadhiil </h1>
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+</p>
+<h1 align="center">
+  Naufal Fadhiil 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="40"/>
+</h1>
 
- **`  Mobile Developer |  QA Engineer `**
-
+   **`  Mobile Developer |  QA Engineer `**
+   
 - 📝 Currently learning about Mobile Developer (especially flutter)
 - 🔍 Beginner in Software Quality Assurance – currently learning and exploring 
 - 👨‍🎓 3rd years Informatic Student at University Widyatama, Bandung 
 
 <h2>
-✨ Skills🧠 ✨
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun.png" width="22" />
+  Skills🧠
 </h2>
 
 ### 💻 Tech Stack
@@ -19,7 +26,12 @@
 <img src="https://iconic-api.onrender.com/dark/pytest" width="52px" />
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://github.com/NaufalFadhiil/)
 
-<h2 align="center">🌐 Connect With Me 🤝</h2>
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="20" />
+  Connect With Me
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="20" />
+</h2>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/naufal-fadhiil">
 <img src="https://img.shields.io/badge/LinkedIn-Naufal_Fadhiil-5468FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -36,3 +48,4 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaufalFadhiil&theme=react-dark"/>
 </p>
+
