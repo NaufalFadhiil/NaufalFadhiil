@@ -6,19 +6,21 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="40"/>
 </h1>
 
+
    **`  Mobile Developer |  QA Engineer `**
    
 - 📝 Currently learning about Mobile Developer (especially flutter)
 - 🔍 Beginner in Software Quality Assurance – currently learning and exploring 
 - 👨‍🎓 3rd years Informatic Student at University Widyatama, Bandung 
 
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun.png" width="22" />
-  Skills🧠
-</h2>
+<hr>
 
 ### 💻 Tech Stack
 [![Skills](https://skills.syvixor.com/api/icons?i=visualstudiocode,androidstudio,flutter,dart,firebase)](https://github.com/NaufalFadhiil/)
+
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
+  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
+</a>
 
 ### 🔍 Testing
 [![My Skills](https://skillicons.dev/icons?i=pycharm)](https://github.com/NaufalFadhiil/)
@@ -26,17 +28,21 @@
 <img src="https://iconic-api.onrender.com/dark/pytest" width="52px" />
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://github.com/NaufalFadhiil/)
 
-<h2 align="center">
+<hr>
+
+
+
+<h3 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="20" />
   Connect With Me
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="20" />
-</h2>
+</h3>
 
-<p align="center">
+<h3 align="center">
 <a href="https://www.linkedin.com/in/naufal-fadhiil">
 <img src="https://img.shields.io/badge/LinkedIn-Naufal_Fadhiil-5468FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-</p>
+</h3>
 
 <p align="center">
 <a href="https://github.com/NaufalFadhiil">
@@ -49,3 +55,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaufalFadhiil&theme=react-dark"/>
 </p>
 
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
+  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
+</a>
