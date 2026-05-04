@@ -7,7 +7,7 @@
 </h1>
 
 
-   **`  Mobile Developer |  QA Engineer `**
+   **`  Mobile Developer (Flutter) |  QA Engineer `**
    
 - 📝 Currently learning about Mobile Developer (especially flutter)
 - 🔍 Beginner in Software Quality Assurance – currently learning and exploring 
@@ -18,9 +18,7 @@
 ### 💻 Tech Stack
 [![Skills](https://skills.syvixor.com/api/icons?i=visualstudiocode,androidstudio,flutter,dart,firebase)](https://github.com/NaufalFadhiil/)
 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
-  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
-</a>
+<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
 
 ### 🔍 Testing
 [![My Skills](https://skillicons.dev/icons?i=pycharm)](https://github.com/NaufalFadhiil/)
@@ -29,8 +27,6 @@
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://github.com/NaufalFadhiil/)
 
 <hr>
-
-
 
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="20" />
@@ -55,6 +51,4 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaufalFadhiil&theme=react-dark"/>
 </p>
 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
   <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
-</a>
