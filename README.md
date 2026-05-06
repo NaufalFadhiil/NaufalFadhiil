@@ -6,7 +6,6 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="40"/>
 </h1>
 
-
    **`  Mobile Developer (Flutter) |  QA Engineer `**
    
 - 📝 Currently learning about Mobile Developer (especially flutter)
@@ -23,6 +22,7 @@
 ### 🔍 Testing
 [![My Skills](https://skillicons.dev/icons?i=pycharm)](https://github.com/NaufalFadhiil/)
 [![My Skills](https://skillicons.dev/icons?i=python,selenium)](https://github.com/NaufalFadhiil/)
+[![Skills](https://skills.syvixor.com/api/icons?i=cypress)](https://github.com/NaufalFadhiil/)
 <img src="https://iconic-api.onrender.com/dark/pytest" width="52px" />
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://github.com/NaufalFadhiil/)
 
@@ -46,6 +46,8 @@
   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaufalFadhiil&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
 </a>
 </p>
+
+<hr>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaufalFadhiil&theme=react-dark"/>
