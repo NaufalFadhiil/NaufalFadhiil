@@ -2,14 +2,14 @@
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
 <h1 align="center">
+     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Student%20Light%20Skin%20Tone.png" alt="Student Light Skin Tone" height="30" />
   Naufal Fadhiil 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="40"/>
 </h1>
 
-   **`  Mobile Developer (Flutter) |  QA Engineer `**
+   **`  Mobile Developer (Flutter) |  QA Engineer | DevOps Jr. `**
    
-- 📝 Currently learning about Mobile Developer (especially flutter)
-- 🔍 Beginner in Software Quality Assurance – currently learning and exploring 
+- 📝 Currently learning about Mobile Developer
+- 🔍 Learning Quality Assurance & DevOps
 - 👨‍🎓 3rd years Informatic Student at University Widyatama, Bandung 
 
 <hr>
