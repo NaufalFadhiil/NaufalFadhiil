@@ -21,7 +21,7 @@
 
 ### 🔍 Testing
 [![My Skills](https://skillicons.dev/icons?i=pycharm)](https://github.com/NaufalFadhiil/)
-[![My Skills](https://skillicons.dev/icons?i=python,selenium)](https://github.com/NaufalFadhiil/)
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,selenium)](https://github.com/NaufalFadhiil/)
 [![Skills](https://skills.syvixor.com/api/icons?i=cypress)](https://github.com/NaufalFadhiil/)
 <img src="https://iconic-api.onrender.com/dark/pytest" width="52px" />
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://github.com/NaufalFadhiil/)
