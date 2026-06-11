@@ -42,7 +42,6 @@
 
 <p align="center">
 <a href="https://github.com/NaufalFadhiil">
-  <img height ="190cm" ![NaufalFadhiil's Stats] src="https://github-readme-stats.vercel.app/api?username=NaufalFadhiil&theme=algolia&show_icons=true&hide_border=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaufalFadhiil&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
      <img src="https://github-readme-stats-eight-smoky-34.vercel.app/api?username=NaufalFadhiil&theme=algolia&show_icons=true&hide_border=true&count_private=true" height="190"/
 </a>
